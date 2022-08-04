@@ -1,0 +1,44 @@
+@media (max-width: 620px){
+    .cabecalho {
+        gap: 5px;
+    }
+
+    .cabecalho .h1 {
+        font-size: 25px;
+    }
+
+    .main-slaid {
+        padding: 0 15xp;
+        gap: 10px;
+    }
+
+    .btn-seta  {
+        width: 20px;
+        height: 20px;
+        padding: 20px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .ul-list {
+        height: 480px;
+    }
+
+    .cartao .li-img {
+        max-height: 230px;
+    }
+
+    .cartao .informacoes .tipo {
+        max-width: 50%;
+        font-size: 18px;
+    }
+
+    .cartao .informacoes .estrelas {
+        font-size: 14px;
+    }
+
+    .cartao .descricao .texto {
+        overflow-y: auto;
+    }
+}
