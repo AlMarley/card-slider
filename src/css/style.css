@@ -3,6 +3,7 @@ body{
     background-image: url(../img/fundo04.jpg);
     background-repeat: no-repeat;
     background-size: cover;
+    background-attachment: fixed;
     min-height: 100vh;
 
 }
