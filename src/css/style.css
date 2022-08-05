@@ -101,16 +101,19 @@ body{
 .back-01 {
     background: url(../img/01.jpg) no-repeat;
     background-size: cover;
+    background-position: center;
 }
 
 .back-02 {
     background: url(../img/03.jpg) no-repeat;
     background-size: cover;
+    background-position: left;
 }
 
 .back-03 {
     background: url(../img/02.jpg) no-repeat;
     background-size: cover;
+    background-position: center;
 }
 
 .cartao .informacoes {
